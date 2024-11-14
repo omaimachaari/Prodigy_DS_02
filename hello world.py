@@ -59,3 +59,8 @@ best_rf_model = grid_search.best_estimator_
 
 test_accuracy = best_rf_model.score(X_test, y_test)
 print(f"Test Accuracy: {test_accuracy}")
+
+#results:
+#Best parameters: {'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 200}
+#Best score: 0.73
+#Test Accuracy: 0.67
