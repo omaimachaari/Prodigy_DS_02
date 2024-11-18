@@ -1,4 +1,5 @@
-#Titanic Data Analysis and Prediction with Machine Learning#
+# Titanic Data Analysis and Prediction with Machine Learning #
+
 Project Overview
 This project focuses on data cleaning, exploratory data analysis (EDA), feature engineering, and machine learning model training using the popular Titanic dataset from Kaggle. The goal is to predict passenger survival based on various features like age, gender, ticket class, and family size.
 
